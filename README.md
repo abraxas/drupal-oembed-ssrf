@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/drupal-oembed-ssrf">drupal-oembed-ssrf</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/drupal-oembed-ssrf"><strong>https://abraxaslabs.tech/research/drupal-oembed-ssrf</strong></a>
+</p>
+
 
 # drupal-oembed-ssrf
 
